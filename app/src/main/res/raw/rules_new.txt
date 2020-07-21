@@ -1,0 +1,41 @@
+OVERVIEW
+
+Words decoder is a pass and play game with the option for casting the app on TV.
+Form teams RED and BLUE with minimum of 2 players in each team.
+Choose a MASTER for each team.
+Words panel consist of 25 words.
+The team who plays first have to guess 9 words and the other team 8 words.
+There are seven COMMON WORDS and a GAME BUSTER WORD, in addition to the words for the team to guess.
+Role of master is to give clue and players is to guess the words 
+
+CLUE AND TIMER
+
+Clue is a combination of a CONNECTING WORD and a number. 
+CONNECTING WORD must relate to meaning of one or more words but it should not contain any of the game words in it.
+The number indicates the number of words it connects.
+Master gets 2 minutes in addition to player’s time for forming the clues at the starting of the game.
+Then the master and the players gets equal time to proceed their roles
+players can change the game timer.
+
+DEEP DIVE
+
+Game starts by switching from PLAYER mode to MASTER mode.
+Master gives the clue.
+After switching back to PLAYER mode, players get their turn.
+As the players selects the words, if it changes to their team’s color, they can proceed with their selection.
+If they select either COMMON WORDS or the opposite team’s words, then the team’s turn is automatically ended.
+The opposite team starts their turn.
+If a team guesses all words from master’s clue or if they want to play safer by guessing few words, players can manually end their turn by clicking “END TURN”. 
+When any player chooses the GAME BUSTER WORD, the the game ends and the opposite team wins!
+Hence master’s clue should never be associated with GAME BUSTER WORD
+The first team who guess all the words of their team wins!!
+
+
+
+
+
+
+
+
+
+

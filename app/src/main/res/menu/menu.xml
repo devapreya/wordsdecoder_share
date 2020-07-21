@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_fav"
+        android:orderInCategory="300"
+        android:title="cast"
+        android:icon="@drawable/ic_baseline_cast_24"
+        app:showAsAction="always">
+    </item>
+    <item
+        android:id="@+id/set_timer"
+        android:title="@string/Set_Timer"
+        android:icon="@android:drawable/ic_media_play"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/next"
+        android:title="@string/new_game"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/rules_text"
+        android:title="@string/rules_text"
+        app:showAsAction="never"/>
+</menu>

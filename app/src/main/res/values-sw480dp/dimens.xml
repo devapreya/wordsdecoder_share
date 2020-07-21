@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="score_size">24sp</dimen>
+    <dimen name="words_size">20sp</dimen>
+    <dimen name="border_padding">0dp</dimen>
+    <dimen name="timer_padding">0dp</dimen>
+</resources>
